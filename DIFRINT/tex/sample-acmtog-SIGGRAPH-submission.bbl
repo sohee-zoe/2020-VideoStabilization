@@ -1,0 +1,503 @@
+%%% -*-BibTeX-*-
+%%% Do NOT edit. File created by BibTeX with style
+%%% ACM-Reference-Format-Journals [18-Jan-2012].
+
+\begin{thebibliography}{38}
+
+%%% ====================================================================
+%%% NOTE TO THE USER: you can override these defaults by providing
+%%% customized versions of any of these macros before the \bibliography
+%%% command.  Each of them MUST provide its own final punctuation,
+%%% except for \shownote{}, \showDOI{}, and \showURL{}.  The latter two
+%%% do not use final punctuation, in order to avoid confusing it with
+%%% the Web address.
+%%%
+%%% To suppress output of a particular field, define its macro to expand
+%%% to an empty string, or better, \unskip, like this:
+%%%
+%%% \newcommand{\showDOI}[1]{\unskip}   % LaTeX syntax
+%%%
+%%% \def \showDOI #1{\unskip}           % plain TeX syntax
+%%%
+%%% ====================================================================
+
+\ifx \showCODEN    \undefined \def \showCODEN     #1{\unskip}     \fi
+\ifx \showDOI      \undefined \def \showDOI       #1{#1}\fi
+\ifx \showISBNx    \undefined \def \showISBNx     #1{\unskip}     \fi
+\ifx \showISBNxiii \undefined \def \showISBNxiii  #1{\unskip}     \fi
+\ifx \showISSN     \undefined \def \showISSN      #1{\unskip}     \fi
+\ifx \showLCCN     \undefined \def \showLCCN      #1{\unskip}     \fi
+\ifx \shownote     \undefined \def \shownote      #1{#1}          \fi
+\ifx \showarticletitle \undefined \def \showarticletitle #1{#1}   \fi
+\ifx \showURL      \undefined \def \showURL       {\relax}        \fi
+% The following commands are used for tagged output and should be
+% invisible to TeX
+\providecommand\bibfield[2]{#2}
+\providecommand\bibinfo[2]{#2}
+\providecommand\natexlab[1]{#1}
+\providecommand\showeprint[2][]{arXiv:#2}
+
+\bibitem[\protect\citeauthoryear{Bai, Agarwala, Agrawala, and Ramamoorthi}{Bai
+  et~al\mbox{.}}{2014}]%
+        {bai2014user}
+\bibfield{author}{\bibinfo{person}{Jiamin Bai}, \bibinfo{person}{Aseem
+  Agarwala}, \bibinfo{person}{Maneesh Agrawala}, {and} \bibinfo{person}{Ravi
+  Ramamoorthi}.} \bibinfo{year}{2014}\natexlab{}.
+\newblock \showarticletitle{User-Assisted Video Stabilization}. In
+  \bibinfo{booktitle}{\emph{Computer Graphics Forum}},
+  Vol.~\bibinfo{volume}{33}. \bibinfo{pages}{61--70}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Bell, Troccoli, and Pulli}{Bell
+  et~al\mbox{.}}{2014}]%
+        {bell2014non}
+\bibfield{author}{\bibinfo{person}{Steven Bell}, \bibinfo{person}{Alejandro
+  Troccoli}, {and} \bibinfo{person}{Kari Pulli}.}
+  \bibinfo{year}{2014}\natexlab{}.
+\newblock \showarticletitle{A non-linear filter for gyroscope-based video
+  stabilization}. In \bibinfo{booktitle}{\emph{European Conference on Computer
+  Vision (ECCV)}}. \bibinfo{pages}{294--308}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Buehler, Bosse, and McMillan}{Buehler
+  et~al\mbox{.}}{2001}]%
+        {buehler2001non}
+\bibfield{author}{\bibinfo{person}{Chris Buehler}, \bibinfo{person}{Michael
+  Bosse}, {and} \bibinfo{person}{Leonard McMillan}.}
+  \bibinfo{year}{2001}\natexlab{}.
+\newblock \showarticletitle{Non-metric image-based rendering for video
+  stabilization}. In \bibinfo{booktitle}{\emph{IEEE Computer Vision and Pattern
+  Recognition (CVPR)}}, Vol.~\bibinfo{volume}{2}. \bibinfo{pages}{609--614}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Chen, Lee, Huang, and Lin}{Chen
+  et~al\mbox{.}}{2008}]%
+        {chen2008capturing}
+\bibfield{author}{\bibinfo{person}{Bing-Yu Chen}, \bibinfo{person}{Ken-Yi Lee},
+  \bibinfo{person}{Wei-Ting Huang}, {and} \bibinfo{person}{Jong-Shan Lin}.}
+  \bibinfo{year}{2008}\natexlab{}.
+\newblock \showarticletitle{Capturing Intention-based Full-Frame Video
+  Stabilization}. In \bibinfo{booktitle}{\emph{Computer Graphics Forum}},
+  Vol.~\bibinfo{volume}{27}. \bibinfo{pages}{1805--1814}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Gleicher and Liu}{Gleicher and Liu}{2007}]%
+        {gleicher2007re}
+\bibfield{author}{\bibinfo{person}{Michael~L Gleicher} {and}
+  \bibinfo{person}{Feng Liu}.} \bibinfo{year}{2007}\natexlab{}.
+\newblock \showarticletitle{Re-cinematography: improving the camera dynamics of
+  casual video}. In \bibinfo{booktitle}{\emph{ACM Multimedia}}.
+  \bibinfo{pages}{27--36}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Goldstein and Fattal}{Goldstein and
+  Fattal}{2012}]%
+        {goldstein2012video}
+\bibfield{author}{\bibinfo{person}{Amit Goldstein} {and}
+  \bibinfo{person}{Raanan Fattal}.} \bibinfo{year}{2012}\natexlab{}.
+\newblock \showarticletitle{Video stabilization using epipolar geometry}.
+\newblock \bibinfo{journal}{\emph{ACM Transactions on Graphics (TOG)}}
+  \bibinfo{volume}{31}, \bibinfo{number}{5} (\bibinfo{year}{2012}),
+  \bibinfo{pages}{126}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Goroshin, Mathieu, and LeCun}{Goroshin
+  et~al\mbox{.}}{2015}]%
+        {goroshin2015learning}
+\bibfield{author}{\bibinfo{person}{Ross Goroshin}, \bibinfo{person}{Michael~F
+  Mathieu}, {and} \bibinfo{person}{Yann LeCun}.}
+  \bibinfo{year}{2015}\natexlab{}.
+\newblock \showarticletitle{Learning to linearize under uncertainty.}. In
+  \bibinfo{booktitle}{\emph{Advances in Neural Information Processing Systems
+  (NIPS)}}. \bibinfo{pages}{1234--1242}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Grundmann, Kwatra, Castro, and Essa}{Grundmann
+  et~al\mbox{.}}{2012}]%
+        {grundmann2012calibration}
+\bibfield{author}{\bibinfo{person}{Matthias Grundmann}, \bibinfo{person}{Vivek
+  Kwatra}, \bibinfo{person}{Daniel Castro}, {and} \bibinfo{person}{Irfan
+  Essa}.} \bibinfo{year}{2012}\natexlab{}.
+\newblock \showarticletitle{Calibration-free rolling shutter removal}. In
+  \bibinfo{booktitle}{\emph{IEEE ICCP}}. \bibinfo{pages}{1--8}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Grundmann, Kwatra, and Essa}{Grundmann
+  et~al\mbox{.}}{2011}]%
+        {grundmann2011auto}
+\bibfield{author}{\bibinfo{person}{Matthias Grundmann}, \bibinfo{person}{Vivek
+  Kwatra}, {and} \bibinfo{person}{Irfan Essa}.}
+  \bibinfo{year}{2011}\natexlab{}.
+\newblock \showarticletitle{Auto-directed video stabilization with robust l1
+  optimal camera paths}. In \bibinfo{booktitle}{\emph{IEEE Computer Vision and
+  Pattern Recognition (CVPR)}}. \bibinfo{pages}{225--232}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{He, Zhang, Ren, and Sun}{He
+  et~al\mbox{.}}{2016}]%
+        {he2016deep}
+\bibfield{author}{\bibinfo{person}{Kaiming He}, \bibinfo{person}{Xiangyu
+  Zhang}, \bibinfo{person}{Shaoqing Ren}, {and} \bibinfo{person}{Jian Sun}.}
+  \bibinfo{year}{2016}\natexlab{}.
+\newblock \showarticletitle{Deep residual learning for image recognition}. In
+  \bibinfo{booktitle}{\emph{IEEE Computer Vision and Pattern Recognition
+  (CVPR)}}. \bibinfo{pages}{770--778}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Huang, Wei, and Zhang}{Huang
+  et~al\mbox{.}}{2018}]%
+        {huang2018encoding}
+\bibfield{author}{\bibinfo{person}{Hua Huang}, \bibinfo{person}{Xiao-Xiang
+  Wei}, {and} \bibinfo{person}{Lei Zhang}.} \bibinfo{year}{2018}\natexlab{}.
+\newblock \showarticletitle{Encoding Shaky Videos By Integrating Efficient
+  Video Stabilization}.
+\newblock \bibinfo{journal}{\emph{IEEE TCSVT}} (\bibinfo{year}{2018}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Karpenko, Jacobs, Baek, and Levoy}{Karpenko
+  et~al\mbox{.}}{2011}]%
+        {karpenko2011digital}
+\bibfield{author}{\bibinfo{person}{Alexandre Karpenko}, \bibinfo{person}{David
+  Jacobs}, \bibinfo{person}{Jongmin Baek}, {and} \bibinfo{person}{Marc Levoy}.}
+  \bibinfo{year}{2011}\natexlab{}.
+\newblock \showarticletitle{Digital video stabilization and rolling shutter
+  correction using gyroscopes}.
+\newblock \bibinfo{journal}{\emph{CSTR}}  \bibinfo{volume}{1}
+  (\bibinfo{year}{2011}), \bibinfo{pages}{2}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Liu, Gleicher, Jin, and Agarwala}{Liu
+  et~al\mbox{.}}{2009}]%
+        {liu2009content}
+\bibfield{author}{\bibinfo{person}{Feng Liu}, \bibinfo{person}{Michael
+  Gleicher}, \bibinfo{person}{Hailin Jin}, {and} \bibinfo{person}{Aseem
+  Agarwala}.} \bibinfo{year}{2009}\natexlab{}.
+\newblock \showarticletitle{Content-preserving warps for 3D video
+  stabilization}.
+\newblock \bibinfo{journal}{\emph{ACM Transactions on Graphics (TOG)}}
+  \bibinfo{volume}{28}, \bibinfo{number}{3} (\bibinfo{year}{2009}),
+  \bibinfo{pages}{44}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Liu, Gleicher, Wang, Jin, and Agarwala}{Liu
+  et~al\mbox{.}}{2011}]%
+        {liu2011subspace}
+\bibfield{author}{\bibinfo{person}{Feng Liu}, \bibinfo{person}{Michael
+  Gleicher}, \bibinfo{person}{Jue Wang}, \bibinfo{person}{Hailin Jin}, {and}
+  \bibinfo{person}{Aseem Agarwala}.} \bibinfo{year}{2011}\natexlab{}.
+\newblock \showarticletitle{Subspace video stabilization}.
+\newblock \bibinfo{journal}{\emph{ACM Transactions on Graphics (TOG)}}
+  \bibinfo{volume}{30}, \bibinfo{number}{1} (\bibinfo{year}{2011}),
+  \bibinfo{pages}{4}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Liu, Niu, and Jin}{Liu et~al\mbox{.}}{2013a}]%
+        {liu2013joint}
+\bibfield{author}{\bibinfo{person}{Feng Liu}, \bibinfo{person}{Yuzhen Niu},
+  {and} \bibinfo{person}{Hailin Jin}.} \bibinfo{year}{2013}\natexlab{a}.
+\newblock \showarticletitle{Joint subspace stabilization for stereoscopic
+  video}. In \bibinfo{booktitle}{\emph{IEEE International Conference on
+  Computer Vision (ICCV)}}. \bibinfo{pages}{73--80}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Liu, Li, Zhu, and Zeng}{Liu
+  et~al\mbox{.}}{2017}]%
+        {liu2017codingflow}
+\bibfield{author}{\bibinfo{person}{Shuaicheng Liu}, \bibinfo{person}{Mingyu
+  Li}, \bibinfo{person}{Shuyuan Zhu}, {and} \bibinfo{person}{Bing Zeng}.}
+  \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{CodingFlow: enable video coding for video
+  stabilization}.
+\newblock \bibinfo{journal}{\emph{IEEE Transactions on Image Processing (TIP)}}
+  \bibinfo{volume}{26}, \bibinfo{number}{7} (\bibinfo{year}{2017}),
+  \bibinfo{pages}{3291--3302}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Liu, Tan, Yuan, Sun, and Zeng}{Liu
+  et~al\mbox{.}}{2016}]%
+        {liu2016meshflow}
+\bibfield{author}{\bibinfo{person}{Shuaicheng Liu}, \bibinfo{person}{Ping Tan},
+  \bibinfo{person}{Lu Yuan}, \bibinfo{person}{Jian Sun}, {and}
+  \bibinfo{person}{Bing Zeng}.} \bibinfo{year}{2016}\natexlab{}.
+\newblock \showarticletitle{Meshflow: Minimum latency online video
+  stabilization}. In \bibinfo{booktitle}{\emph{European Conference on Computer
+  Vision (ECCV)}}. \bibinfo{pages}{800--815}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Liu, Wang, Yuan, Bu, Tan, and Sun}{Liu
+  et~al\mbox{.}}{2012}]%
+        {liu2012video}
+\bibfield{author}{\bibinfo{person}{Shuaicheng Liu}, \bibinfo{person}{Yinting
+  Wang}, \bibinfo{person}{Lu Yuan}, \bibinfo{person}{Jiajun Bu},
+  \bibinfo{person}{Ping Tan}, {and} \bibinfo{person}{Jian Sun}.}
+  \bibinfo{year}{2012}\natexlab{}.
+\newblock \showarticletitle{Video stabilization with a depth camera}. In
+  \bibinfo{booktitle}{\emph{IEEE Computer Vision and Pattern Recognition
+  (CVPR)}}. \bibinfo{pages}{89--95}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Liu, Yuan, Tan, and Sun}{Liu
+  et~al\mbox{.}}{2013b}]%
+        {liu2013bundled}
+\bibfield{author}{\bibinfo{person}{Shuaicheng Liu}, \bibinfo{person}{Lu Yuan},
+  \bibinfo{person}{Ping Tan}, {and} \bibinfo{person}{Jian Sun}.}
+  \bibinfo{year}{2013}\natexlab{b}.
+\newblock \showarticletitle{Bundled camera paths for video stabilization}.
+\newblock \bibinfo{journal}{\emph{ACM Transactions on Graphics (TOG)}}
+  \bibinfo{volume}{32}, \bibinfo{number}{4} (\bibinfo{year}{2013}),
+  \bibinfo{pages}{78}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Liu, Yuan, Tan, and Sun}{Liu
+  et~al\mbox{.}}{2014}]%
+        {liu2014steadyflow}
+\bibfield{author}{\bibinfo{person}{Shuaicheng Liu}, \bibinfo{person}{Lu Yuan},
+  \bibinfo{person}{Ping Tan}, {and} \bibinfo{person}{Jian Sun}.}
+  \bibinfo{year}{2014}\natexlab{}.
+\newblock \showarticletitle{Steadyflow: Spatially smooth optical flow for video
+  stabilization}. In \bibinfo{booktitle}{\emph{IEEE Computer Vision and Pattern
+  Recognition (CVPR)}}. \bibinfo{pages}{4209--4216}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Long, Kneip, Alvarez, Li, Zhang, and Yu}{Long
+  et~al\mbox{.}}{2016}]%
+        {long2016learning}
+\bibfield{author}{\bibinfo{person}{Gucan Long}, \bibinfo{person}{Laurent
+  Kneip}, \bibinfo{person}{Jose~M Alvarez}, \bibinfo{person}{Hongdong Li},
+  \bibinfo{person}{Xiaohu Zhang}, {and} \bibinfo{person}{Qifeng Yu}.}
+  \bibinfo{year}{2016}\natexlab{}.
+\newblock \showarticletitle{Learning image matching by simply watching video.}.
+  In \bibinfo{booktitle}{\emph{European Conference on Computer Vision (ECCV)}}.
+  \bibinfo{pages}{434--450}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Mathieu, Couprie, and LeCun}{Mathieu
+  et~al\mbox{.}}{2016}]%
+        {mathieu2016deep}
+\bibfield{author}{\bibinfo{person}{Michael Mathieu}, \bibinfo{person}{Camille
+  Couprie}, {and} \bibinfo{person}{Yann LeCun}.}
+  \bibinfo{year}{2016}\natexlab{}.
+\newblock \showarticletitle{Deep multi-scale video prediction beyond mean
+  square error.}. In \bibinfo{booktitle}{\emph{International Conference on
+  Learning Representations (ICLR)}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Matsushita, Ofek, Ge, Tang, and
+  Shum}{Matsushita et~al\mbox{.}}{2006}]%
+        {matsushita2006full}
+\bibfield{author}{\bibinfo{person}{Yasuyuki Matsushita}, \bibinfo{person}{Eyal
+  Ofek}, \bibinfo{person}{Weina Ge}, \bibinfo{person}{Xiaoou Tang}, {and}
+  \bibinfo{person}{Heung-Yeung Shum}.} \bibinfo{year}{2006}\natexlab{}.
+\newblock \showarticletitle{Full-frame video stabilization with motion
+  inpainting}.
+\newblock \bibinfo{journal}{\emph{IEEE Transactions on Pattern Analysis and
+  Machine Intelligence (PAMI)}} \bibinfo{volume}{28}, \bibinfo{number}{7}
+  (\bibinfo{year}{2006}), \bibinfo{pages}{1150--1163}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Meyer, Wang, Zimmer, Grosse, and
+  Sorkine-Hornung}{Meyer et~al\mbox{.}}{2015}]%
+        {meyer2015phase}
+\bibfield{author}{\bibinfo{person}{Simone Meyer}, \bibinfo{person}{Oliver
+  Wang}, \bibinfo{person}{Henning Zimmer}, \bibinfo{person}{Max Grosse}, {and}
+  \bibinfo{person}{Alexander Sorkine-Hornung}.}
+  \bibinfo{year}{2015}\natexlab{}.
+\newblock \showarticletitle{Phase-based frame interpolation for video}. In
+  \bibinfo{booktitle}{\emph{IEEE Computer Vision and Pattern Recognition
+  (CVPR)}}. \bibinfo{pages}{1410--1418}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Niklaus and Liu}{Niklaus and Liu}{2018}]%
+        {niklaus2018context}
+\bibfield{author}{\bibinfo{person}{Simon Niklaus} {and} \bibinfo{person}{Feng
+  Liu}.} \bibinfo{year}{2018}\natexlab{}.
+\newblock \showarticletitle{Context-aware Synthesis for Video Frame
+  Interpolation.}
+\newblock \bibinfo{journal}{\emph{IEEE Computer Vision and Pattern Recognition
+  (CVPR)}} (\bibinfo{year}{2018}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Niklaus, Mai, and Liu}{Niklaus
+  et~al\mbox{.}}{2017a}]%
+        {niklaus2017video}
+\bibfield{author}{\bibinfo{person}{Simon Niklaus}, \bibinfo{person}{Long Mai},
+  {and} \bibinfo{person}{Feng Liu}.} \bibinfo{year}{2017}\natexlab{a}.
+\newblock \showarticletitle{Video frame interpolation via adaptive
+  convolution}. In \bibinfo{booktitle}{\emph{IEEE Computer Vision and Pattern
+  Recognition (CVPR)}}, Vol.~\bibinfo{volume}{1}. \bibinfo{pages}{3}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Niklaus, Mai, and Liu}{Niklaus
+  et~al\mbox{.}}{2017b}]%
+        {niklaus2017adaptive}
+\bibfield{author}{\bibinfo{person}{Simon Niklaus}, \bibinfo{person}{Long Mai},
+  {and} \bibinfo{person}{Feng Liu}.} \bibinfo{year}{2017}\natexlab{b}.
+\newblock \showarticletitle{Video frame interpolation via adaptive separable
+  convolution}.
+\newblock \bibinfo{journal}{\emph{IEEE International Conference on Computer
+  Vision (ICCV)}} (\bibinfo{year}{2017}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Ovr{\'e}n and Forss{\'e}n}{Ovr{\'e}n and
+  Forss{\'e}n}{2015}]%
+        {ovren2015gyroscope}
+\bibfield{author}{\bibinfo{person}{Hannes Ovr{\'e}n} {and}
+  \bibinfo{person}{Per-Erik Forss{\'e}n}.} \bibinfo{year}{2015}\natexlab{}.
+\newblock \showarticletitle{Gyroscope-based video stabilisation with
+  auto-calibration}. In \bibinfo{booktitle}{\emph{IEEE International Conference
+  on Robotics and Automation (ICRA)}}. \bibinfo{pages}{2090--2097}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Perazzi, Pont-Tuset, McWilliams, {Van Gool},
+  Gross, and Sorkine-Hornung}{Perazzi et~al\mbox{.}}{2016}]%
+        {Perazzi2016}
+\bibfield{author}{\bibinfo{person}{F. Perazzi}, \bibinfo{person}{J.
+  Pont-Tuset}, \bibinfo{person}{B. McWilliams}, \bibinfo{person}{L. {Van
+  Gool}}, \bibinfo{person}{M. Gross}, {and} \bibinfo{person}{A.
+  Sorkine-Hornung}.} \bibinfo{year}{2016}\natexlab{}.
+\newblock \showarticletitle{A Benchmark Dataset and Evaluation Methodology for
+  Video Object Segmentation}. In \bibinfo{booktitle}{\emph{IEEE Computer Vision
+  and Pattern Recognition (CVPR)}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Ronneberger, Fischer, and Brox}{Ronneberger
+  et~al\mbox{.}}{2015}]%
+        {ronneberger2015u}
+\bibfield{author}{\bibinfo{person}{Olaf Ronneberger}, \bibinfo{person}{Philipp
+  Fischer}, {and} \bibinfo{person}{Thomas Brox}.}
+  \bibinfo{year}{2015}\natexlab{}.
+\newblock \showarticletitle{U-Net: Convolutional networks for biomedical image
+  segmentation}. In \bibinfo{booktitle}{\emph{International Conference on
+  Medical Image Computing and Computer Assisted Intervention}}. Springer,
+  \bibinfo{pages}{234--241}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Simonyan and Zisserman}{Simonyan and
+  Zisserman}{2014}]%
+        {simonyan2014very}
+\bibfield{author}{\bibinfo{person}{Karen Simonyan} {and}
+  \bibinfo{person}{Andrew Zisserman}.} \bibinfo{year}{2014}\natexlab{}.
+\newblock \showarticletitle{Very deep convolutional networks for large-scale
+  image recognition}.
+\newblock \bibinfo{journal}{\emph{arXiv preprint arXiv:1409.1556}}
+  (\bibinfo{year}{2014}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Smith, Zhang, Jin, and Agarwala}{Smith
+  et~al\mbox{.}}{2009}]%
+        {smith2009light}
+\bibfield{author}{\bibinfo{person}{Brandon~M Smith}, \bibinfo{person}{Li
+  Zhang}, \bibinfo{person}{Hailin Jin}, {and} \bibinfo{person}{Aseem
+  Agarwala}.} \bibinfo{year}{2009}\natexlab{}.
+\newblock \showarticletitle{Light field video stabilization}. In
+  \bibinfo{booktitle}{\emph{IEEE International Conference on Computer Vision
+  (ICCV)}}. \bibinfo{pages}{341--348}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Sun, Yang, Liu, and Kautz}{Sun
+  et~al\mbox{.}}{2018}]%
+        {Sun_CVPR_2018}
+\bibfield{author}{\bibinfo{person}{Deqing Sun}, \bibinfo{person}{Xiaodong
+  Yang}, \bibinfo{person}{Ming-Yu Liu}, {and} \bibinfo{person}{Jan Kautz}.}
+  \bibinfo{year}{2018}\natexlab{}.
+\newblock \showarticletitle{{PWC-Net}: {CNNs} for Optical Flow Using Pyramid,
+  Warping, and Cost Volume}. In \bibinfo{booktitle}{\emph{IEEE Computer Vision
+  and Pattern Recognition (CVPR)}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Wang, Yang, Lin, Shamir, Zhang, Lu, and
+  Hu}{Wang et~al\mbox{.}}{2018}]%
+        {wang2018deep}
+\bibfield{author}{\bibinfo{person}{Miao Wang}, \bibinfo{person}{Guo-Ye Yang},
+  \bibinfo{person}{Jin-Kun Lin}, \bibinfo{person}{Ariel Shamir},
+  \bibinfo{person}{Song-Hai Zhang}, \bibinfo{person}{Shao-Ping Lu}, {and}
+  \bibinfo{person}{Shi-Min Hu}.} \bibinfo{year}{2018}\natexlab{}.
+\newblock \showarticletitle{Deep Online Video Stabilization with Multi-Grid
+  Warping Transformation Learning}.
+\newblock \bibinfo{journal}{\emph{IEEE Transactions on Image Processing (TIP)}}
+  (\bibinfo{year}{2018}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Wang, Liu, Hsu, and Lee}{Wang
+  et~al\mbox{.}}{2013}]%
+        {wang2013spatially}
+\bibfield{author}{\bibinfo{person}{Yu-Shuen Wang}, \bibinfo{person}{Feng Liu},
+  \bibinfo{person}{Pu-Sheng Hsu}, {and} \bibinfo{person}{Tong-Yee Lee}.}
+  \bibinfo{year}{2013}\natexlab{}.
+\newblock \showarticletitle{Spatially and temporally optimized video
+  stabilization}.
+\newblock \bibinfo{journal}{\emph{IEEE TVCG}} \bibinfo{volume}{19},
+  \bibinfo{number}{8} (\bibinfo{year}{2013}), \bibinfo{pages}{1354--1361}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Xu, Hu, Wang, Mu, and Hu}{Xu
+  et~al\mbox{.}}{2018}]%
+        {xu2018deep}
+\bibfield{author}{\bibinfo{person}{Sen-Zhe Xu}, \bibinfo{person}{Jun Hu},
+  \bibinfo{person}{Miao Wang}, \bibinfo{person}{Tai-Jiang Mu}, {and}
+  \bibinfo{person}{Shi-Min Hu}.} \bibinfo{year}{2018}\natexlab{}.
+\newblock \showarticletitle{Deep Video Stabilization Using Adversarial
+  Networks}. In \bibinfo{booktitle}{\emph{Computer Graphics Forum}},
+  Vol.~\bibinfo{volume}{37}. \bibinfo{pages}{267--276}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Yu, Lin, Yang, Shen, Lu, and Huang}{Yu
+  et~al\mbox{.}}{2018}]%
+        {yu2018free}
+\bibfield{author}{\bibinfo{person}{Jiahui Yu}, \bibinfo{person}{Zhe Lin},
+  \bibinfo{person}{Jimei Yang}, \bibinfo{person}{Xiaohui Shen},
+  \bibinfo{person}{Xin Lu}, {and} \bibinfo{person}{Thomas~S Huang}.}
+  \bibinfo{year}{2018}\natexlab{}.
+\newblock \showarticletitle{Free-form image inpainting with gated convolution}.
+\newblock \bibinfo{journal}{\emph{arXiv preprint arXiv:1806.03589}}
+  (\bibinfo{year}{2018}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Zhou, Jin, and Ma}{Zhou et~al\mbox{.}}{2013}]%
+        {zhou2013plane}
+\bibfield{author}{\bibinfo{person}{Zihan Zhou}, \bibinfo{person}{Hailin Jin},
+  {and} \bibinfo{person}{Yi Ma}.} \bibinfo{year}{2013}\natexlab{}.
+\newblock \showarticletitle{Plane-based content preserving warps for video
+  stabilization}. In \bibinfo{booktitle}{\emph{IEEE Computer Vision and Pattern
+  Recognition (CVPR)}}. \bibinfo{pages}{2299--2306}.
+\newblock
+
+
+\end{thebibliography}
