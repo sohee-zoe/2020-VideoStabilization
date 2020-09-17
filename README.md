@@ -8,11 +8,11 @@
 
 [papers](https://github.com/ishank-juneja/Video-Stabilization)
 
-[Auto-Directed Video Stabilization with Robust L1 Optimal Camera Paths](https://github.com/VAIBHAV-2303/VideoStabilization)
-
-
-[DIFRINT](https://github.com/jinsc37/DIFRINT)
+[L1-Stabilizer](https://github.com/VAIBHAV-2303/VideoStabilization)
+[L1-Stabilizer](https://github.com/ishit/L1Stabilizer)
 
 [Mesh-Flow-Video-Stabilization](https://github.com/sudheerachary/Mesh-Flow-Video-Stabilization)
 
-[L1-Stabilizer](https://github.com/ishit/L1Stabilizer)
+[DIFRINT](https://github.com/jinsc37/DIFRINT)
+
+
