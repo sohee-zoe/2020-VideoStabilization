@@ -8,8 +8,8 @@
 
 [papers](https://github.com/ishank-juneja/Video-Stabilization)
 
-[L1-Stabilizer](https://github.com/VAIBHAV-2303/VideoStabilization)
-[L1-Stabilizer](https://github.com/ishit/L1Stabilizer)
+[L1-Stabilizer 1](https://github.com/VAIBHAV-2303/VideoStabilization)  
+[L1-Stabilizer 2](https://github.com/ishit/L1Stabilizer)
 
 [Mesh-Flow-Video-Stabilization](https://github.com/sudheerachary/Mesh-Flow-Video-Stabilization)
 
