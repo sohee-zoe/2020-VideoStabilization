@@ -1,6 +1,6 @@
 ## wiki
 
-[DIFRINT review](https://github.com/soraennon/VideoStabilization/wiki/DIFRINT,-TOG20-Review)
+[DIFRINT review](https://github.com/soraennon/VideoStabilization/wiki/DIFRINT,-TOG20-Review) (Writing)
 
 ## github
 
