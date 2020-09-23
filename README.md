@@ -4,6 +4,8 @@
 
 ## github
 
+[Video Stabilization Using Point Feature Matching in OpenCV](https://www.learnopencv.com/video-stabilization-using-point-feature-matching-in-opencv/)
+
 [Python Video Stabilization](https://github.com/AdamSpannbauer/python_video_stab)
 
 [papers](https://github.com/ishank-juneja/Video-Stabilization)
