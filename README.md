@@ -16,6 +16,10 @@
 
 [Mesh-Flow-Video-Stabilization](https://github.com/sudheerachary/Mesh-Flow-Video-Stabilization)
 
+
+[Deep Online Video Stabilization](https://ieeexplore.ieee.org/document/8554287) 2018  
+[github](https://github.com/cxjyxxme/deep-online-video-stabilization-deploy)
+
 [DIFRINT](https://github.com/jinsc37/DIFRINT)
   
   
