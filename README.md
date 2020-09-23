@@ -40,5 +40,6 @@ https://abhitronix.github.io/2018/11/30/humanoid-AEAM-3/
 [영상 안정화 기법의 기술 동향](http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09312116) 2020
 
 
-[Deepstab: Real-time Video Object Stabilization tool by using Deep Learning
-](https://medium.com/hci-wvu/face-stabilization-in-videos-using-deep-learning-features-dcfd4be365) 2018
+[Deepstab: Real-time Video Object Stabilization tool by using Deep Learning](https://medium.com/hci-wvu/face-stabilization-in-videos-using-deep-learning-features-dcfd4be365) 2018  
+
+[Digital video stabilization based on adaptive camera trajectory smoothing](https://link.springer.com/article/10.1186/s13640-018-0277-7)
