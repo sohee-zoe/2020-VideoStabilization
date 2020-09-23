@@ -27,4 +27,7 @@
 [Video Stabilization Algorithm 블로그](https://jdselectron.tistory.com/m/87) 2020  
 
 
+[딥러닝을 활용한 흔들림 영상 안정화 알고리즘](https://www.earticle.net/Article/A350455)
+
+
 
