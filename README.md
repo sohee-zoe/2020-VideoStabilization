@@ -4,6 +4,8 @@
 
 ## github
 
+https://abhitronix.github.io/2018/11/30/humanoid-AEAM-3/
+
 [Video Stabilization Using Point Feature Matching in OpenCV](https://www.learnopencv.com/video-stabilization-using-point-feature-matching-in-opencv/)
 
 [Python Video Stabilization](https://github.com/AdamSpannbauer/python_video_stab)
