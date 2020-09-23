@@ -21,8 +21,10 @@
   
   
 [Triplet CNN과 학습 데이터 합성 기반 비디오 안정화기 연구](http://www.kibme.org/resources/journal/20200605095913394.pdf) 2020  
+[Study on the Video Stabilizer based on a Triplet CNN and Training Dataset Synthesis](http://www.kpubs.org/article/articleMain.kpubs?articleANo=BSGHC3_2020_v25n3_428)
+
 
 [Video Stabilization Algorithm 블로그](https://jdselectron.tistory.com/m/87) 2020  
 
-[Study on the Video Stabilizer based on a Triplet CNN and Training Dataset Synthesis](http://www.kpubs.org/article/articleMain.kpubs?articleANo=BSGHC3_2020_v25n3_428)
+
 
